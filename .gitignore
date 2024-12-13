@@ -1,0 +1,4 @@
+s3/terraform.tfvars
+s3/.terraform
+
+ec2/
